@@ -1,6 +1,0 @@
-README:
-#Slingshot Game using OpenGL
-2. Run 'make'
-3. Do './sample'
-4. You'll able to see the game window.
-5. Press 'R' to reset the ball on the cannon, 'Q' to quit, mouse click or 'S' to shoot.
