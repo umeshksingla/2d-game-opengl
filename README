@@ -1,0 +1,8 @@
+README:
+#Angry Bird
+1. After unzipping the file, cd into the folder containing game.cpp 
+2. Run 'make'
+3. Do './sample'
+4. You'll able to see the game window.
+
+Roll no. 201401204
