@@ -1,4 +1,4 @@
-Angry Birds:
+Slingshot Birds:
 
 1. Black bird is the player.
 2. Goal is to kill all the pigs(pink ugly heptagons) and collect all the coins(red balls) and get high score.
