@@ -1,8 +1,6 @@
 README:
-#Angry Bird
-1. After unzipping the file, cd into the folder containing game.cpp 
+#Slingshot Game using OpenGL
 2. Run 'make'
 3. Do './sample'
 4. You'll able to see the game window.
-
-Roll no. 201401204
+5. Press 'R' to reset the ball on the cannon, 'Q' to quit, mouse click or 'S' to shoot.
